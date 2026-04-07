@@ -2,8 +2,9 @@
 
 ## Team Members
 
-1. Rezk
-2. Abd El Salam
-3. Sharqawy
+1. Ahmed Rezq Mohammed
+2. Mohammed Abd El Salam
+3. Mohammed Khaled El-Sharqawy
 4. Ashraf
-5.
+5. ahmed abd el zaher
+6. Mohammed Atta
